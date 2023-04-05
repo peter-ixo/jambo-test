@@ -1,11 +1,11 @@
 :root {
-  --bg-color: white;
-  --primary-color: #1db3d3;
-  --secondary-color: #1297b4;
+  --bg-color: #fff1d7;
+  --primary-color: #dd770a;
+  --secondary-color: #d77906;
   --tertiary-color: #fc9a63;
-  --success-color: #22c55e;
+  --success-color: #71c522;
   --disabled-color: #d1d5db;
-  --footer-bg-color: white;
+  --footer-bg-color: #fff1d7;
   --grey-color: #9ca3af;
   --icon-grey-color: #d1d5db;
   --light-grey-color: #f0f0f0;
@@ -24,8 +24,8 @@
   // dark mode
   .dark {
     --bg-color: #0e2235;
-    --primary-color: #1db3d3;
-    --secondary-color: #1297b4;
+    --primary-color: #f1861b;
+    --secondary-color: #e86716;
     --tertiary-color: #fc9a63;
     --success-color: #22c55e;
     --disabled-color: #d1d5db;
